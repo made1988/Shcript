@@ -1,6 +1,6 @@
 #!/bin/bash
-#Vou ter muito sucesso na programação!
-echo "Hello World! What's yout name? "
+#Eu sou Tryber e ando em tribu
+echo "Hello World! What's your name? "
 
 read NAME
 
