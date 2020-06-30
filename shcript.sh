@@ -1,6 +1,6 @@
 #!/bin/bash
 #Eu sou Tryber e ando em tribu
-echo "Hello World! What's yout name? "
+echo "Hello World! What's your name? "
 
 read NAME
 
